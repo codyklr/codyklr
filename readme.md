@@ -4,7 +4,7 @@ My name is Cody Keller, I am an undergrad student currently working towards my B
 ## Interests
 - 👀 Computer Vision
 - 🤖 Machine Learning
-- 🚀 Astronomy
+- 🚀 Astronomy/Space
 - 🖥️ Video Games
 
 
