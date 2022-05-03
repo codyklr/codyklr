@@ -6,7 +6,7 @@ My name is Cody Keller, I am an undergrad student currently working towards my B
 - 🤖 Machine Learning
 - 🚀 Astronomy/Space
 - 🌐 Web Development
-- 🖥️ Video Games
+- 🖥️ Game Development/Video Games
 
 
 
