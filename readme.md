@@ -1,4 +1,4 @@
-# Hello there! <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" alt="hand wave gif" width="50px">
+# Hello there! 
 My name is Cody Keller, I am an undergrad student currently working towards my B.S. in computer science at [University of Houston](https://www.uh.edu)
 
 ## Interests
