@@ -2,11 +2,11 @@
 My name is Cody Keller, I am an undergrad student currently working towards my B.S. in computer science at [University of Houston](https://www.uh.edu)
 
 ## Interests
+- 🖥️ Game Development/Video Games
 - 👀 Computer Vision
 - 🤖 Machine Learning
-- 🚀 Astronomy/Space
 - 🌐 Web Development
-- 🖥️ Game Development/Video Games
+- 🚀 Astronomy/Space
 
 
 
