@@ -2,7 +2,6 @@
 My name is Cody Keller, I am an undergrad student currently working towards my B.S. in computer science at [University of Houston](https://www.uh.edu)
 
 ## Interests
-- 🦀 Rust
 - 🚀 Astronomy/Space
 - 👀 Computer Vision
 - 🤖 Machine Learning
