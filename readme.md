@@ -16,4 +16,3 @@ My name is Cody Keller, I am an undergrad student currently working towards my B
 ![Python Language](https://img.shields.io/badge/Code-Python-366D9C)
 ![JS Language](https://img.shields.io/badge/Code-JavaScript-EFD81D)
 ![C++ Language](https://img.shields.io/badge/Code-C++-00427E)
-![Rust](https://img.shields.io/badge/Code-Rust-orange)
