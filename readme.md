@@ -1,5 +1,5 @@
 # Hello there! 
-My name is Cody Keller, I am an undergrad student currently working towards my B.S. in computer science at [University of Houston](https://www.uh.edu)
+My name is Cody Keller
 
 ## Interests
 - 🚀 Astronomy/Space
