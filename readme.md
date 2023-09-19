@@ -1,5 +1,5 @@
 # Hello there!👋
-Hey there! I'm Cody, a developer with an insatiable curiosity and love for all things tech! Feel free to explore my GitHub repositories to see my projects and contributions! 😊
+Hey there! I'm Cody, feel free to explore my GitHub repositories to see my projects and contributions! 😊
 
 ## Interests
 - 🚀 Astronomy/Space
