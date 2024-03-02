@@ -2,11 +2,10 @@
 Hey there! I'm Cody, feel free to explore my GitHub repositories to see my projects and contributions! 😊
 
 ## Interests
-- 🚀 Astronomy/Space
-- 👀 Computer Vision
 - 🤖 Machine Learning
+- 👀 Computer Vision
+- 🚀 Astronomy/Space
 - 🌐 Web Development
-- 🖥️ Game Development/Video Games
 
 
 ## Tools and Languages
