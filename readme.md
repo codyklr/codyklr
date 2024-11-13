@@ -23,4 +23,4 @@
 
 ## Let's connect!
 
-[X](https://www.x.com/codyklr)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.x.com/codyklr)
