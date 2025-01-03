@@ -1,8 +1,8 @@
-# Hello! 👋
+# Hi there 👋
 
-I build tools and small projects, usually game-related ones that solve specific problems or make life easier. 
+I build random tools that solve specific problems, or make my life easier, along with other small projects.
 
 ## What I'm up to
 - Tinkering with whatever catches my interest
-- Planning to rebuild my website
 - Diving into Machine Learning
+- Learning Zig
